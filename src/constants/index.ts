@@ -6,12 +6,6 @@ import {
   backend,
   creator,
   web,
-  javascript,
-  html,
-  css,
-  reactjs,
-  nodejs,
-  figma,
   smartinterviews,
   infosys,
   viswamai,
@@ -76,23 +70,23 @@ export const TECHNOLOGIES = [
   },
   {
     name: "HTML 5",
-    icon: html,
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
   },
   {
     name: "CSS 3",
-    icon: css,
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
   },
   {
     name: "JavaScript",
-    icon: javascript,
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
   },
   {
     name: "React JS",
-    icon: reactjs,
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
   },
   {
     name: "Node JS",
-    icon: nodejs,
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
   },
   {
     name: "MongoDB",
@@ -116,7 +110,7 @@ export const TECHNOLOGIES = [
   },
   {
     name: "figma",
-    icon: figma,
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg",
   },
 ] as const;
 
