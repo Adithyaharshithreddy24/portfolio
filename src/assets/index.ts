@@ -29,6 +29,7 @@ import smartinterviews from "./company/smartinterviews.png";
 import infosys from "./company/infosys.png";
 import viswamai from "./company/viswamai.png";
 
+import project1 from "./projects/project1.png";
 import project2 from "./projects/project2.png";
 import project3 from "./projects/project3.png";
 import project4 from "./projects/project4.png";
@@ -68,6 +69,7 @@ export {
   smartinterviews,
   infosys,
   viswamai,
+  project1,
   project2,
   project3,
   project4,
