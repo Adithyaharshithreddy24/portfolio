@@ -10,7 +10,6 @@ import {
   Works,
   StarsCanvas,
 } from "./components";
-import Banner from "./components/banner";
 import Footer from "./components/footer";
 
 // App
