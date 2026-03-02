@@ -12,7 +12,7 @@ const Computers = ({ isMobile }: ComputersProps) => {
   // Load different models depending on device
   const model = useGLTF(
     isMobile
-      ? "/mobile_pc/optimized.glb"
+      ? "/desktop_pc/optimized.glb"
       : "/desktop_pc/scene.gltf"
   );
 
